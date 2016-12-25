@@ -60,7 +60,7 @@ public class Browser extends Application{
             back =  new Button("<-");
             back.setDisable(true);
             forward =  new Button("->");
-            forward.setDisable(true);
+            //forward.setDisable(true);
 
             progress.setVisible(false);
 
